@@ -1,0 +1,13 @@
+{
+  "module": "03_asset_character",
+  "aesthetic_called": false,
+  "camera_called": true,
+  "negative_source": "shared/negative_words.md",
+  "canvas_aspect": "16:9",
+  "model": {"provider": "seedream", "model": "Seedream 5.0 Flash"},
+  "segments": [
+    {"name": "subject", "text": "{{CHAR_A}} 站在场景中央，具体外貌未登记"}
+  ],
+  "char_limit": 1900,
+  "text_len": 1200
+}

@@ -1,0 +1,16 @@
+{
+  "module": "03_asset_character",
+  "aesthetic_called": true,
+  "camera_called": true,
+  "negative_source": "shared/negative_words.md",
+  "whitelist": [{"entry": "硬字幕", "reason": "故事板镜号标注"}],
+  "canvas_aspect": "16:9",
+  "model": {"provider": "seedream", "model": "Seedream 5.0 Flash"},
+  "segments": [
+    {"name": "subject", "text": "张磊，17岁高中生，黑色短碎发，左眉一道浅疤，穿蓝白校服"},
+    {"name": "camera", "text": "85mm 胸像，正面机位，头约占板块高 40%"},
+    {"name": "negative", "text": "无乱码文字、无水印、无多余手指"}
+  ],
+  "char_limit": 1900,
+  "text_len": 45
+}

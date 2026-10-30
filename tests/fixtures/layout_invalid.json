@@ -1,0 +1,23 @@
+{
+  "scope": {"project_aspect": "16:9", "asset_canvas_aspect": "16:9",
+            "cell_aspect": 1.7777777777777777, "panorama_aspect": "2:1"},
+  "canvas": {"width": 1600, "height": 900},
+  "grid": {
+    "name": "G9",
+    "rows": 3,
+    "columns": 3,
+    "gap": 0,
+    "blank_policy": "G9_NO_BLANK",
+    "outer_blank": false,
+    "filled_cells": 8,
+    "empty_cells": 1,
+    "cell_aspect_r": 1.7777777777777777
+  },
+  "margins": {
+    "outer_margin_pct": 1.5,
+    "module_gap_pct": 1.5,
+    "inner_padding_pct": 8,
+    "artistic_negative_space": false,
+    "empty_cell": true
+  }
+}
